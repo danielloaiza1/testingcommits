@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_302129_test.coupons_user" name="x_302129_test.coupons_user">005b2034db1300101125a0f2ca961951</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-28 11:27:12</sys_created_on>
+        <sys_id>0c5b6474db1300101125a0f2ca96195d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>005b2034db1300101125a0f2ca961951</sys_name>
+        <sys_package display_value="test" source="x_302129_test">c51850ecdb1300101125a0f2ca9619cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test">c51850ecdb1300101125a0f2ca9619cc</sys_scope>
+        <sys_update_name>sys_embedded_help_role_0c5b6474db1300101125a0f2ca96195d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-28 11:27:12</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
