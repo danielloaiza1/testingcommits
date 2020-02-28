@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>071c2cf0db1300101125a0f2ca96194a</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_302129_test_coupons">
+    <x_302129_test_coupons action="INSERT_OR_UPDATE">
+        <name>Second one</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-28 11:30:44</sys_created_on>
+        <sys_id>071c2cf0db1300101125a0f2ca96194a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-28 11:30:44</sys_updated_on>
+    </x_302129_test_coupons>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-28 11:31:22</sys_created_on>
+        <sys_id>d94c2034db1300101125a0f2ca961981</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Second one</sys_name>
+        <sys_package display_value="test" source="x_302129_test">c51850ecdb1300101125a0f2ca9619cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test">c51850ecdb1300101125a0f2ca9619cc</sys_scope>
+        <sys_update_name>sys_metadata_link_d94c2034db1300101125a0f2ca961981</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-28 11:31:22</sys_updated_on>
+        <tablename>x_302129_test_coupons</tablename>
+    </sys_metadata_link>
+</record_update>
